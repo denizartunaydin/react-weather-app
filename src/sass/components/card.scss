@@ -1,0 +1,12 @@
+.card {
+  background-color: white;
+  border-radius: 2rem;
+  padding: 1rem;
+  border: none !important;
+
+  &__title {
+    font-weight: 400;
+    color: #7a7a7a;
+    margin-bottom: 1rem;
+  }
+}
