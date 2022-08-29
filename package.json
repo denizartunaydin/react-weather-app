@@ -2,7 +2,6 @@
   "name": "react-weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://denizartunaydin.github.io/react-weather-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -20,7 +19,7 @@
     "react-live-clock": "^6.0.6",
     "react-moment": "^1.1.2",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "sass": "^1.54.5",
     "swr": "^1.3.0",
     "typescript": "^4.7.4",
