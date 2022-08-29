@@ -1,6 +1,4 @@
 export const citiesData = [
-  "London",
-  "New York",
   "Adana",
   "Adıyaman",
   "Afyon",
