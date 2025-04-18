@@ -17,7 +17,7 @@ const HomePage = () => {
   const ref: any = useRef(null);
 
   const { data, error } = useSWR(
-    `http://api.weatherapi.com/v1/forecast.json?key=9f92f62b9b6a4761a5670300222708&q=${Helper.turkishToEnglish(
+    `http://api.weatherapi.com/v1/forecast.json?key=9f1705fbcd4347b5ac5104628211707&q=${Helper.turkishToEnglish(
       city
     )}&days=14&lang=tr`,
     fetcher
